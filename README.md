@@ -23,7 +23,7 @@ This  Library helps you to integrate your TestNG-based tests with TestRail in an
 ## Usage
 1. See my article on Medium – [Link][link]
 
-![Medium article](https://link.com)
+![Medium article](https://i.ibb.co/gm5knGG/2021-02-20-14-52-24.png)
 
 
 [here]: https://github.com/RSheremeta/TestRail-TestNG/releases/tag/1.0
